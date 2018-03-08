@@ -1,0 +1,24 @@
+components of kerberos setup
+
+A)KDC consisting of:
+	1.	TGT (ticket granting server)
+	2.	DB (KDC DataBase)
+	3.	Authentication Server
+B)Client
+C)Application Server
+
+Packages:
+ Server:
+ Client:
+ Application Server
+
+How it works
+
+
+Hints:
+NTP syncronization is very important for kerberos
+
+url
+https://www.youtube.com/watch?v=7Q-Xx0I8PXc
+
+
